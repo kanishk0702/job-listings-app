@@ -60,3 +60,7 @@ job-listings-app/
     ├── tailwind.config.js
     └── package.json
 
+Assumptions and Challenges:-
+- Data Import from JSON file. Due to Heavy Data, the code crashes and unale to run.
+- The Output might not show Experiences ( min-max ).
+- There is no description in any profile. So, there will be no desciption in the job card.
